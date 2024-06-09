@@ -33,13 +33,13 @@ Agile vs. Waterfall Models:
     Breaks down the development process into smaller, manageable chunks (sprints)
     Suitable for projects with changing or unclear requirements
   
-  Waterfall Model:
-    Linear and sequential approach
-    Requirements are gathered and frozen at the beginning of the project
-    Each phase is completed before moving on to the next one
-    Emphasis on predictability and stability
-    Suitable for projects with well-defined and fixed requirements
-    https://www.geeksforgeeks.org/software-engineering/
+    Waterfall Model:
+      Linear and sequential approach
+      Requirements are gathered and frozen at the beginning of the project
+      Each phase is completed before moving on to the next one
+      Emphasis on predictability and stability
+      Suitable for projects with well-defined and fixed requirements
+      https://www.geeksforgeeks.org/software-engineering/
   
 4) Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
